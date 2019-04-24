@@ -1,0 +1,23 @@
+c:\users\admin\documents\visual studio 2013\Projects\order\order\bin\Debug\order.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\order\order\bin\Debug\order.exe
+c:\users\admin\documents\visual studio 2013\Projects\order\order\bin\Debug\order.pdb
+c:\users\admin\documents\visual studio 2013\Projects\order\order\bin\Debug\price.dll
+c:\users\admin\documents\visual studio 2013\Projects\order\order\bin\Debug\price.pdb
+c:\users\admin\documents\visual studio 2013\Projects\order\order\obj\Debug\order.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\order\order\obj\Debug\order.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\order\order\obj\Debug\order.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\order\order\obj\Debug\order.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\order\order\obj\Debug\order.exe
+c:\users\admin\documents\visual studio 2013\Projects\order\order\obj\Debug\order.pdb
+c:\users\admin\documents\visual studio 2013\Projects\order\order\obj\Debug\order.order_details.resources
+C:\Users\ADMIN\Desktop\oose\order\order\bin\Debug\order.exe.config
+C:\Users\ADMIN\Desktop\oose\order\order\obj\Debug\order.exe
+C:\Users\ADMIN\Desktop\oose\order\order\obj\Debug\order.pdb
+C:\Users\ADMIN\Desktop\oose\order\order\bin\Debug\order.exe
+C:\Users\ADMIN\Desktop\oose\order\order\bin\Debug\order.pdb
+C:\Users\ADMIN\Desktop\oose\order\order\bin\Debug\price.pdb
+C:\Users\ADMIN\Desktop\oose\order\order\obj\Debug\order.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\oose\order\order\obj\Debug\order.Form1.resources
+C:\Users\ADMIN\Desktop\oose\order\order\obj\Debug\order.order_details.resources
+C:\Users\ADMIN\Desktop\oose\order\order\obj\Debug\order.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\oose\order\order\obj\Debug\order.csproj.GenerateResource.Cache
